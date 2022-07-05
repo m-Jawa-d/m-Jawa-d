@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @m-Jawa-d full name is Muhammad Jawad.
-- 👀 I’m interested in mern stack mostly in reactjs.
-- 🌱 I’m currently learning Mern Stack.
-- 💞️ I’m looking to collaborate on Reactjs projects.
+- 👋 Hi, I’m @m-Jawa-d.
+- 👀 I’m interested in reactjs & Blockchain.
+- 🌱 I’m currently working as react and web 3.0 developer.
+- 💞️ I’m looking to collaborate on Reactjs & web 3.0 projects.
 - 📫 Reach me at chudhryjawad@gmail.com.
 
 <!---
