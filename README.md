@@ -24,7 +24,7 @@ Feel free to explore my repositories to see more of my work.
 
 ## Skills
 
-- Programming languages: **JavaScript**, HTML, CSS
+- Programming & Markup languages: **JavaScript**, **Html**,**Css**
 - Front-end frameworks: **React.js**, Bootstrap, Redux...
 - Web3 libraries: **Web3.js**, Ethereum Smart Contracts, wegmi, rainbow toolkit...
 - Version control: **Git**
