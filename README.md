@@ -16,16 +16,15 @@ I am a passionate developer with a focus on front-end technologies, especially R
 
 Here are some of the projects I have worked on:
 
-- **Project 1**: [Domain Naming Service](https://tdns.network/): Decentralized Web 3.0 domains are the protocol managed on the blockchain through NFTs representing ownership of the URL where the actual addresses are encrypted, so that no entity on the network will ever be able to block an approved address. 
-- **Project 2**: [NFT Marketplace](https://bluemoon.quecko.com/): Bluemoon is a platform for digital artists, NFT collectors, gamers, and investors worldwide to interact, host contests, and build a community. It offers AR/VR capabilities to view NFTs in personalized virtual galleries. As an NFT marketplace, Bluemoon allows unique features like NFT comparisons and swapping. Additionally, it provides an NFT Launchpad for presales to support emerging digital artists and NFT creators.
-- **Project 3**: [Staking Pools Deployer](https://earn.gocryptome.io/): Staking Pools Deployer is a high-yield platform that allows the creation of staking pools with desired features. The platform then enables users to stake in the created pools and earn rewards. Asset holders can make the most of their assets through trading them, earning passive income and winning rewards. Users are allowed to stake for different time periods of 3 months, 6 months, and 1 year with rewards getting bigger with the staking time.
-
+- **Project 1**: [tDNS -tomi Domain Name System](https://tdns.network/): tDNS offers enhanced security and accessibility for blockchain naming, much like Ethereum Name Service (ENS). Unlike traditional DNS, which is vulnerable to hacks, ENS records are secured by the Ethereum blockchain, making them tamper-proof. Additionally, ENS simplifies interactions by enabling users to create ".tomi", and ".com" domains, providing a clear point of contact in the Ethereum network. Join us in embracing secure and user-friendly blockchain naming with tDNS.
+- **Project 2**: [DOP - Data Ownership Protocol](https://dop.org/): DOP utilizes zero-knowledge roll-ups, an off-chain protocol that moves computation and state storage off-chain to increase throughput on the Ethereum Mainnet while maintaining complete data ownership. By enabling transactions through zero-knowledge proofs, DOP reduces transaction costs and allows users to access their favorite apps on L1 while maintaining security, transparency and choice.
+- **Project 3**: [HYDT Protocol](https://app.hydtprotocol.com/HYDT/dashboard): Discover the next level of stablecoin with High Yield Dollar Protocol- a revolutionary BSC-based project offering innovative features and high returns, maintaining a steadfast 1:1 peg to the US dollar. Experience financial growth confidently, as HYDT holders harness the best of both worlds!
+- **Project 4**: [STABL33 PROTOCOL](https://staging.stabl33.com/): Decentralized Savings Protocol Based On Non-Depreciating Digital Assets, Paying The World's Highest Returns In USDC & DAI
 Feel free to explore my repositories to see more of my work.
-
 ## Skills
 
 - Programming & Markup languages: **JavaScript**, **Html**,**Css**
-- Front-end frameworks: **React.js**, Bootstrap, Redux...
+- Front-end frameworks and libraries: **React js**, **Next js** Bootstrap, Redux...
 - Web3 libraries: **Web3.js**, Ethereum Smart Contracts, wegmi, rainbow toolkit...
 - Version control: **Git**
 - UI/UX design: Figma
