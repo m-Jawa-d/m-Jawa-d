@@ -23,9 +23,9 @@ Here are some of the projects I have worked on:
 Feel free to explore my repositories to see more of my work.
 ## Skills
 
-- Programming & Markup languages: **JavaScript**, **Html**,**Css**
-- Front-end frameworks and libraries: **React js**, **Next js** Bootstrap, Redux...
-- Web3 libraries: **Web3.js**, Ethereum Smart Contracts, wegmi, rainbow toolkit...
+- Programming & Markup languages: **JavaScript**, **Html**,**Css**,**Scss**,**Typescript**
+- Front-end frameworks and libraries: **React js**, **Next js**, **Bootstrap**,  **Material Ui**
+- Web3 libraries: **Web3.js**,**Wegmi**,**Rainbow toolkit**,**ether js**...
 - Version control: **Git**
 - UI/UX design: Figma
 - Testing: React Testing Library
