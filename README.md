@@ -8,7 +8,7 @@ Welcome to my GitHub profile. Here's a little about me:
 - 💞️ I’m looking to collaborate on React.js and Web 3.0 projects, leveraging the power of modern web technologies.
 - 📫 You can reach me at **chudhryjawad@gmail.com**. Feel free to connect with me for any project or collaboration opportunities.
 
-## About Mee
+## About Me
 
 I am a passionate developer with a focus on front-end technologies, especially React.js & web 3. I love building intuitive and interactive user interfaces that provide a seamless user experience. I also have a keen interest in blockchain technology and its potential to revolutionize various industries.
 
