@@ -12,7 +12,7 @@ Welcome to my GitHub profile. Here's a little about me:
 
 I am a passionate developer with a focus on front-end technologies, especially React.js & web 3. I love building intuitive and interactive user interfaces that provide a seamless user experience. I also have a keen interest in blockchain technology and its potential to revolutionize various industries.
 
-## Projectss
+## Projects
 
 Here are some of the projects I have worked on:
 
