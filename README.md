@@ -41,7 +41,8 @@ I am continuously learning and exploring new technologies to expand my skillset 
 
 Feel free to reach out to me via email or connect with me on LinkedIn or Twitter. I'm always excited to discuss new ideas, collaborate on projects, or simply have a chat about technology.
 
-Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile! <img src="https://komarev.com/ghpvc/?username=m-Jawa-d&style=for-the-badge&color=blue" alt=""/>
+
 
 
 
