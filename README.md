@@ -37,7 +37,7 @@ I am continuously learning and exploring new technologies to expand my skillset 
 - Email: **chudhryjawad@gmail.com**
 - LinkedIn: [Muhammad Jawad](https://www.linkedin.com/in/muhammad-jawad-6aa7b21a1/)
 - Twitter: [M Jawad](https://twitter.com/MJawad37915325)
-- Peerlist: [![Peerlist](https://github-readme-badge.peerlist.io/api/jawad)](https://peerlist.io/jawad)
+- Peerlist: (https://peerlist.io/jawad)
 
 Feel free to reach out to me via email or connect with me on LinkedIn or Twitter. I'm always excited to discuss new ideas, collaborate on projects, or simply have a chat about technology.
 
