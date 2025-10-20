@@ -21,22 +21,6 @@ I specialize in **React.js** for crafting efficient front-end interfaces and hav
 
 ---
 
-## Projects
-
-### [tDNS - tomi Domain Name System](https://domains.tomi.com)
-A decentralized domain name system powered by NFTs, offering ownership, privacy, and governance through a DAO — redefining how users manage domains in the tomiNet ecosystem.
-
-### [DOP - Data Ownership Protocol](https://dop.org/)
-Empowering users with complete data ownership through zero-knowledge rollups on Ethereum — ensuring transparency, scalability, and security for decentralized applications.
-
-### WIZARD GALLERY NFT MARKETPLACE
-An NFT marketplace for the Core ecosystem, enabling users to mint, buy, and trade NFTs with an optimized and intuitive user experience.
-
-### [HYDT Protocol](https://app.hydtprotocol.com/HYDT/dashboard)
-A BSC-based stablecoin protocol maintaining a 1:1 USD peg while providing high yields and innovative DeFi mechanisms.
-
----
-
 ## Skills & Technologies
 
 ### Languages
