@@ -1,72 +1,72 @@
-# Hi, I'm Jawad! 👋
+# Hi, I'm Jawad
 
-Welcome to my GitHub profile — great to have you here!
-
----
-
-## 👨‍💻 About Me
-
-I'm **Muhammad Jawad**, a passionate **MERN Stack** and **Web 3.0 Developer** with over 3 years of experience building dynamic, user-friendly, and decentralized web applications.  
-
-I specialize in **React.js** for crafting sleek front-end interfaces and have strong expertise in **blockchain integration**, connecting modern web applications to decentralized networks.  
+Welcome to my GitHub profile.
 
 ---
 
-## 🚀 What I Do
+## About Me
 
-- 🌍 **Frontend & Full-Stack Development:** Building responsive and scalable apps using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
-- 🔗 **Web3 Integration:** Connecting decentralized smart contracts with interactive frontends using **Ethers.js**, **Web3.js**, and **Wagmi**.  
-- ⚒️ **Collaboration:** Open to working on innovative **React.js**, **Next.js**, and **Web3.0** projects.  
-- 🧠 **Continuous Learning:** Always exploring new technologies to push the limits of modern web development.  
+I'm **Muhammad Jawad**, a passionate **MERN Stack** and **Web 3.0 Developer** with over 3 years of experience building dynamic, user-friendly, and decentralized web applications.
+
+I specialize in **React.js** for crafting efficient front-end interfaces and have strong expertise in **blockchain integration**, connecting modern web applications to decentralized networks.
 
 ---
 
-## 🧩 Projects
+## What I Do
 
-### **[tDNS - tomi Domain Name System](https://domains.tomi.com)**
+- **Frontend & Full-Stack Development:** Building responsive and scalable applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
+- **Web3 Integration:** Connecting decentralized smart contracts with interactive frontends using **Ethers.js**, **Web3.js**, and **Wagmi**.  
+- **Collaboration:** Open to working on innovative **React.js**, **Next.js**, and **Web 3.0** projects.  
+- **Continuous Learning:** Exploring new technologies to stay ahead in the modern web ecosystem.  
+
+---
+
+## Projects
+
+### [tDNS - tomi Domain Name System](https://domains.tomi.com)
 A decentralized domain name system powered by NFTs, offering ownership, privacy, and governance through a DAO — redefining how users manage domains in the tomiNet ecosystem.
 
-### **[DOP - Data Ownership Protocol](https://dop.org/)**
+### [DOP - Data Ownership Protocol](https://dop.org/)
 Empowering users with complete data ownership through zero-knowledge rollups on Ethereum — ensuring transparency, scalability, and security for decentralized applications.
 
-### **WIZARD GALLERY NFT MARKETPLACE**
-An NFT marketplace for the Core ecosystem — enabling users to mint, buy, and trade NFTs with an optimized and intuitive user experience.
+### WIZARD GALLERY NFT MARKETPLACE
+An NFT marketplace for the Core ecosystem, enabling users to mint, buy, and trade NFTs with an optimized and intuitive user experience.
 
-### **[HYDT Protocol](https://app.hydtprotocol.com/HYDT/dashboard)**
-A revolutionary BSC-based stablecoin protocol maintaining a 1:1 USD peg while providing high yields and DeFi innovation.
+### [HYDT Protocol](https://app.hydtprotocol.com/HYDT/dashboard)
+A BSC-based stablecoin protocol maintaining a 1:1 USD peg while providing high yields and innovative DeFi mechanisms.
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
-### 🖥️ **Languages**
+### Languages
 - JavaScript  
 - TypeScript  
 - HTML  
 - CSS  
 - SCSS  
 
-### ⚛️ **Frontend**
+### Frontend
 - React.js  
 - Next.js  
 - Redux  
 - Bootstrap  
 - Material UI  
 
-### 🌐 **Backend**
+### Backend
 - Node.js  
 - Express.js  
 - RESTful APIs  
 - JWT Authentication  
 
-### 🪙 **Web3**
+### Web3
 - Ethers.js  
 - Web3.js  
 - Wagmi  
 - RainbowKit  
 - Smart Contract Interaction  
 
-### 🧩 **Databases & Tools**
+### Databases & Tools
 - MongoDB  
 - Git  
 - Figma  
@@ -74,13 +74,13 @@ A revolutionary BSC-based stablecoin protocol maintaining a 1:1 USD peg while pr
 
 ---
 
-## 🤝 Let's Connect
+## Get in Touch
 
-- 📧 **Email:** [chudhryjawad@gmail.com](mailto:chudhryjawad@gmail.com)  
-- 💼 **LinkedIn:** [Muhammad Jawad](https://www.linkedin.com/in/muhammad-jawad-6aa7b21a1/)  
-- 🌐 **Peerlist:** [jawad](https://peerlist.io/jawad)
+- **Email:** [chudhryjawad@gmail.com](mailto:chudhryjawad@gmail.com)  
+- **LinkedIn:** [Muhammad Jawad](https://www.linkedin.com/in/muhammad-jawad-6aa7b21a1/)  
+- **Peerlist:** [jawad](https://peerlist.io/jawad)
 
-Feel free to reach out for collaborations, discussions, or any Web3/MERN stack opportunities!
+Feel free to reach out for collaborations, discussions, or any Web3/MERN stack opportunities.
 
 ---
 
