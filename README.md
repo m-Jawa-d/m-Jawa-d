@@ -26,9 +26,7 @@ I specialize in **React.js** for crafting efficient front-end interfaces and hav
 ### Languages
 - JavaScript  
 - TypeScript  
-- HTML  
-- CSS  
-- SCSS  
+- C++
 
 ### Frontend
 - React.js  
